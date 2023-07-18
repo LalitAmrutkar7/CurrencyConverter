@@ -1,10 +1,7 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+.margin{
+  margin-top: 1rem;
 }
-
+/* 
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -38,4 +35,26 @@
 
 .read-the-docs {
   color: #888;
+} */
+
+
+
+
+
+/* .heading{
+  color:white;
+  font-weight: 700;
 }
+.wetherResultBox{
+  margin: auto;
+  width: 200px;
+  height: 200px;
+}
+
+.weathorCity{
+  font-size: 35px;
+}
+.weathorTemp{
+  font-size:55px;
+  font-weight: 700;
+} */

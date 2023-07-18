@@ -10,11 +10,11 @@ const InputAmout = () => {
       <TextField
         value={firstAmount}
         onChange={e => setFirstAmount(e.target.value)}
-        label="Amount"
+        label="Enter Amount Here"
         fullWidth
         InputProps={{
           type: "number",
-          startAdornment: <InputAdornment position="start">$</InputAdornment>
+          
         }}
       />
     </Grid>

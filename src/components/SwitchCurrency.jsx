@@ -1,5 +1,5 @@
 import { Button, Grid } from "@mui/material"
-import CompareArrowsIcon from '@mui/icons-material/CompareArrows';
+import SwapHorizontalCircleTwoToneIcon from '@mui/icons-material/SwapHorizontalCircleTwoTone';
 import { useContext } from "react";
 import { CurrencyContext } from "../context/CurrencyContext";
 
@@ -21,7 +21,7 @@ const SwitchCurrency = () => {
         borderRadius: 1,
         height: "100%"
       }}>
-        <CompareArrowsIcon sx={{ fontSize: 30 }} />
+        <SwapHorizontalCircleTwoToneIcon sx={{ fontSize: 40 }} />
       </Button>
     </Grid>
   )
