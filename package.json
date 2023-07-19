@@ -25,11 +25,5 @@
     "@types/react-dom": "^18.0.9",
     "@vitejs/plugin-react": "^3.0.0",
     "vite": "^4.0.0"
-  },
-  "scripts": {
-  "start": "node app.js",
-  "test": "your-test-command-here",
-  "build": "your-build-command-here",
-  // ...
-}
+  }
 }
